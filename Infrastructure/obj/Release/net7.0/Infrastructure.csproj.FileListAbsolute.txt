@@ -1,0 +1,44 @@
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Domain.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Domain.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Domain.exe
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Infrastructure.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Infrastructure.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Application.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Domain.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Application.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\bin\Release\net7.0\Domain.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.AssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.CopyComplete
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\refint\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\Infrastructure.genruntimeconfig.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\Infrastructure\obj\Release\net7.0\ref\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Domain.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Domain.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Domain.exe
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Infrastructure.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Infrastructure.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Application.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Domain.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Application.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\bin\Release\net7.0\Domain.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.AssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.csproj.CopyComplete
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\refint\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\Infrastructure.genruntimeconfig.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\Infrastructure\obj\Release\net7.0\ref\Infrastructure.dll

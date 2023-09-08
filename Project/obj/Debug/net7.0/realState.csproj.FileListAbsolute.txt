@@ -1,0 +1,328 @@
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.csproj.AssemblyReference.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.AssemblyInfoInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.AssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.csproj.CoreCompileInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.MvcApplicationPartsAssemblyInfo.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.MvcApplicationPartsAssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Domain.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Domain.exe
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\appsettings.Development.json
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\appsettings.json
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\realState.exe
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\realState.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\realState.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\realState.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\AutoMapper.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Azure.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Azure.Identity.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\FluentValidation.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\MediatR.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Memory.Data.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Application.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Domain.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Application.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Domain.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.realState.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.build.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets.build.json
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\staticwebassets.development.json
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\scopedcss\bundle\realState.styles.css
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.csproj.CopyComplete
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\refint\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\realState.genruntimeconfig.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\obj\Debug\net7.0\ref\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Humanizer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\bin\Debug\net7.0\System.CodeDom.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.csproj.AssemblyReference.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.AssemblyInfoInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.AssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.csproj.CoreCompileInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.MvcApplicationPartsAssemblyInfo.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Domain.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Domain.exe
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\appsettings.Development.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\appsettings.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\realState.staticwebassets.runtime.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\realState.exe
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\realState.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\realState.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\realState.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\AutoMapper.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Azure.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Azure.Identity.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\FluentValidation.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Humanizer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\MediatR.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Enrichers.Environment.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.CodeDom.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Memory.Data.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Application.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Domain.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Application.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Domain.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.MvcApplicationPartsAssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.realState.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.build.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets.build.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\staticwebassets.development.json
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\scopedcss\bundle\realState.styles.css
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.csproj.CopyComplete
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\refint\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\realState.genruntimeconfig.cache
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\obj\Debug\net7.0\ref\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\LinqKit.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\SerilogTimings.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\ClosedXML.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\ExcelNumberFormat.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Irony.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\XLParser.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\MySqlConnector.dll
+D:\1-data\1-Projects\5-realState\1-realState_back\1-realState_back\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\appsettings.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Domain.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Domain.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Domain.exe
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\appsettings.Development.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\realState.staticwebassets.runtime.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\realState.exe
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\realState.deps.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\realState.runtimeconfig.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\realState.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\AutoMapper.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\ClosedXML.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\DocumentFormat.OpenXml.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\ExcelNumberFormat.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\FluentValidation.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Humanizer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Irony.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\LinqKit.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\LinqKit.Microsoft.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\MediatR.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Npgsql.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.AspNetCore.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Enrichers.Environment.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Serilog.Sinks.File.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\SerilogTimings.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\SixLabors.Fonts.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\System.CodeDom.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\System.IO.Packaging.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\XLParser.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Application.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Domain.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Infrastructure.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Infrastructure.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Application.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Domain.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.csproj.AssemblyReference.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.AssemblyInfoInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.AssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.csproj.CoreCompileInputs.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.MvcApplicationPartsAssemblyInfo.cs
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.MvcApplicationPartsAssemblyInfo.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.realState.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.build.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.realState.props
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets.build.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\staticwebassets.development.json
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\scopedcss\bundle\realState.styles.css
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.csproj.CopyComplete
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\refint\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.pdb
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\realState.genruntimeconfig.cache
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\obj\Debug\net7.0\ref\realState.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\Renci.SshNet.dll
+D:\1-data\1-Projects\5-realState\1-realState_back -postgre\1-realState_back\bin\Debug\net7.0\SshNet.Security.Cryptography.dll

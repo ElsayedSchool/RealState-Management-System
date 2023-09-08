@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\ExcelFiles\\ImportTemplate.xlsx",
+      "PackagePath": "staticwebassets\\ExcelFiles\\ImportTemplate.xlsx"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\ExcelFiles\\ImportTemplate1.xlsx",
+      "PackagePath": "staticwebassets\\ExcelFiles\\ImportTemplate1.xlsx"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\ExcelFiles\\SelectedOffersData.xlsx",
+      "PackagePath": "staticwebassets\\ExcelFiles\\SelectedOffersData.xlsx"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\ExcelFiles\\SelectedOffersData1.xlsx",
+      "PackagePath": "staticwebassets\\ExcelFiles\\SelectedOffersData1.xlsx"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\ExcelFiles\\UploadedOffer.xlsx",
+      "PackagePath": "staticwebassets\\ExcelFiles\\UploadedOffer.xlsx"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\4067302f-4a00-42c6-ac92-1a085e0be3c4Untitled Diagram - Copy.png",
+      "PackagePath": "staticwebassets\\Images\\4067302f-4a00-42c6-ac92-1a085e0be3c4Untitled Diagram - Copy.png"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\551734df-758e-4140-9df1-5b597a2ea72aUntitled Diagram - Copy.png",
+      "PackagePath": "staticwebassets\\Images\\551734df-758e-4140-9df1-5b597a2ea72aUntitled Diagram - Copy.png"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\582e4a2e-1c16-432d-84a2-0c6b9a3704cccolor.dae87a04d07ca92b.png",
+      "PackagePath": "staticwebassets\\Images\\582e4a2e-1c16-432d-84a2-0c6b9a3704cccolor.dae87a04d07ca92b.png"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\8dfb294f-336c-4762-85bf-b3dcdcc20ffecolor.dae87a04d07ca92b.png",
+      "PackagePath": "staticwebassets\\Images\\8dfb294f-336c-4762-85bf-b3dcdcc20ffecolor.dae87a04d07ca92b.png"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\8e94d678-987b-4f2d-9d56-55aea218d030Untitled Diagram.png",
+      "PackagePath": "staticwebassets\\Images\\8e94d678-987b-4f2d-9d56-55aea218d030Untitled Diagram.png"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\background.png",
+      "PackagePath": "staticwebassets\\Images\\background.png"
+    },
+    {
+      "Id": "D:\\1-data\\1-Projects\\5-realState\\1-realState_back -postgre\\1-realState_back\\wwwroot\\Images\\f25fda42-f6d2-45a1-8027-9861095555d8Untitled Diagram.png",
+      "PackagePath": "staticwebassets\\Images\\f25fda42-f6d2-45a1-8027-9861095555d8Untitled Diagram.png"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.realState.props",
+      "PackagePath": "build\\realState.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.realState.props",
+      "PackagePath": "buildMultiTargeting\\realState.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.realState.props",
+      "PackagePath": "buildTransitive\\realState.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.realState.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
